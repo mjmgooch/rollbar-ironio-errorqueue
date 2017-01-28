@@ -1,0 +1,10 @@
+{
+    "name": "mjmgooch/ironio-errorqueue-rollbar",
+    "description": "A simple Iron.io Worker that processes the payload received from error queue/s and uploads them to rollbar",
+    "require": {
+        "rollbar/rollbar": "^0.18.2",
+        "iron-io/iron_worker": "^2.0"
+    },
+    "license": "MIT",
+    "minimum-stability": "stable"
+}
